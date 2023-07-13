@@ -1,0 +1,12 @@
+env
+
+*pyc
+
+__pycache__/
+
+
+*csv
+
+testes.py
+
+testes1.py
